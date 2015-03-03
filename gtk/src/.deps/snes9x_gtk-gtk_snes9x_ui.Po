@@ -1,0 +1,4 @@
+src/snes9x_gtk-gtk_snes9x_ui.o: src/gtk_snes9x_ui.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
